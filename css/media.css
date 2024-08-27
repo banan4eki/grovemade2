@@ -1,0 +1,160 @@
+@media (max-width: 531px) {
+    .header__content {
+        flex-direction: column;
+    }
+}
+
+
+@media (max-width: 446px) {
+    .sistem__content-title {
+        font-size: 34px !important;
+    }
+}
+
+
+@media (max-width: 364px) {
+    .sistem__content-title {
+        font-size: 30px !important;
+    }
+}
+
+@media (max-width: 1478px) {
+    .desk__pads img {
+        width: 100%;
+    }
+
+    .desk__laptop img {
+        width: 100%;
+    }
+}
+
+
+@media (max-width: 990px) {
+    .desk__content {
+        grid-template-columns: repeat(1, 1fr) !important;
+    }
+
+}
+
+@media (max-width: 1486px) {
+    .technology__content img {
+        width: 100%;
+    }
+}
+
+
+@media (max-width: 1196px) {
+    .technology__content {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+
+
+}
+
+
+
+@media (max-width: 852px) {
+    .technology__content {
+        grid-template-columns: repeat(1, 1fr) !important;
+
+    }
+}
+
+@media (max-width: 370px) {
+    .main__inspires-text {
+        font-size: 12px !important;
+    }
+}
+
+@media (max-width: 345px) {
+    .main__inspires-text {
+        font-size: 10px !important;
+    }
+}
+
+
+@media (max-width: 684px) {
+    .Office__home {
+        font-size: 55px !important;
+    }
+}
+
+@media (max-width: 574px) {
+    .Office__home {
+        font-size: 40px !important;
+    }
+
+    .Office__text {
+        font-size: 12px !important;
+    }
+}
+
+
+@media (max-width: 452px) {
+    .Office__home {
+        font-size: 30px !important;
+    }
+
+    .Office__text {
+        font-size: 9px !important;
+    }
+}
+
+@media (max-width: 332px) {
+    .Office__home {
+        font-size: 25px !important;
+    }
+
+    .Office__text {
+        font-size: 8px !important;
+    }
+}
+
+
+@media (max-width: 1043px) {
+
+
+    .hard img {
+        width: 100%;
+    }
+}
+
+
+@media (max-width: 393px) {
+    .hard__title {
+        font-style: 30px !important;
+    }
+}
+
+@media (max-width: 369px) {
+    .hard__title {
+        font-size: 30px !important;
+    }
+}
+
+@media (max-width: 1439px) {
+    .people img {
+        width: 100%;
+    }
+}
+
+
+@media (max-width: 371px) {
+    .people__title {
+        font-size: 30px !important;
+    }
+}
+
+@media (max-width: 536px) {
+    .footer__info{
+        flex-direction: column;
+    }
+
+    .footer__list{
+        margin-bottom: 20px;
+    }
+
+    .footer__ul-2{
+        justify-content: center !important;
+    }
+}
